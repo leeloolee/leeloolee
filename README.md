@@ -18,6 +18,7 @@
 ___
 ### <u> EDUCATION BACKGROUND </u>
 2018-2020 Korea University
+</br>
 2014-2018 Korea University
 ___
 #### <u> Interests </u>
