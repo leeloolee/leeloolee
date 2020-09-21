@@ -15,10 +15,10 @@
 **E-MAIL**: maider030@gmail.com
 </br>
 **ADDRESS**: Daejeon
----
+___
 ### <u> EDUCATION BACKGROUND </u>
 2018-2020 Korea University
 2014-2018 Korea University
----
+___
 #### <u> Interests </u>
 - Deep Learning
