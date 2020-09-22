@@ -28,3 +28,7 @@ ___
   - Simulation Modeling
   - Numerical Modeling
   - Mathematic Modeling
+
+
+#### <u> Skills </u>
+R, Python, Tensorflow
