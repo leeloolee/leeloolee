@@ -23,3 +23,8 @@ ___
 ___
 #### <u> Interests </u>
 - Deep Learning
+- Modeling
+  - 3D Modeling
+  - Simulation Modeling
+  - Numerical Modeling
+  - Mathematic Modeling
