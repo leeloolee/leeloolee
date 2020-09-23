@@ -32,3 +32,7 @@ ___
 
 #### <u> Skills </u>
 R, Python, Tensorflow
+
+#### It's leeloolee
+- Slideshare
+- Youtube
