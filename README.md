@@ -10,7 +10,7 @@
 </br>
 **SPOKEN LANGUAGE**: KOREAN
 </br>
-**MOBILE NUMBER**: 010) 9009 - ****
+**MOBILE NUMBER**: 010) **** - ****
 </br>
 **E-MAIL**: maider030@gmail.com
 </br>
@@ -34,9 +34,9 @@ ___
 R, Python, Tensorflow
 
 #### <u> Awards </u>
-2014-1학기 성적우수상
-2017 NTIS 정보활용공모전 우수상 (2nd prizes)
-2018 공개SW 컨트리뷰톤 장려상
+2014-1학기 성적우수상 </br>
+2017 NTIS 정보활용공모전 우수상 (2nd prizes) </br>
+2018 공개SW 컨트리뷰톤 장려상 </br>
 
 #### It's leeloolee
 - Slideshare
