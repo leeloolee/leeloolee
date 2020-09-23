@@ -33,6 +33,11 @@ ___
 #### <u> Skills </u>
 R, Python, Tensorflow
 
+#### <u> Awards </u>
+2014-1학기 성적우수상
+2017 NTIS 정보활용공모전 우수상 (2nd prizes)
+2018 공개SW 컨트리뷰톤 장려상
+
 #### It's leeloolee
 - Slideshare
     - leeloeelee's portfolio
