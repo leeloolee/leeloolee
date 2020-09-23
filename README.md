@@ -35,4 +35,5 @@ R, Python, Tensorflow
 
 #### It's leeloolee
 - Slideshare
+    - leeloeelee's portfolio
 - Youtube
