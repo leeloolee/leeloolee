@@ -17,9 +17,9 @@
 **ADDRESS**: Daejeon
 ___
 ### <u> EDUCATION BACKGROUND </u>
-2018-2020 Korea University
+2018-2020 Korea University Industrial Engineering
 </br>
-2014-2018 Korea University
+2014-2018 Korea University Industrial Engineering
 ___
 #### <u> Interests </u>
 - Deep Learning
