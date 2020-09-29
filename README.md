@@ -43,3 +43,4 @@ R, Python, Tensorflow
     - leeloeelee's portfolio
 - Youtube
     - 이루리 이루리다
+    - 이루리다
