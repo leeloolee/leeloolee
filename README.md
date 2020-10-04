@@ -40,8 +40,8 @@ R, Python, Tensorflow
 
 #### It's leeloolee
 - Slideshare
-    - leeloeelee's portfolio
+    - 인공지능 성우
 - Youtube
-    - 이루리 이루리다
-    - 이루리다
-- 빠밤
+    - Deepfake
+    - 인공지능 성우
+
