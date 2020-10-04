@@ -41,6 +41,7 @@ R, Python, Tensorflow
 #### It's leeloolee
 - Slideshare
     - 인공지능 성우
+    - NTIS 공모전
 - Youtube
     - Deepfake
     - 인공지능 성우
