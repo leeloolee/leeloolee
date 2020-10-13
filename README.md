@@ -30,6 +30,7 @@ ___
   - Mathematic Modeling
 
 
+
 #### <u> Skills </u>
 R, Python, Tensorflow
 
