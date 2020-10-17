@@ -2,7 +2,6 @@
 ---
 ### <u> PERSONAL DATA </u>
 
-
 **NAME**: LEE LOO LEE
 </br>
 **AGE**: 27 
