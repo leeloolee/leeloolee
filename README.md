@@ -1,7 +1,6 @@
 ## PROFILE
 --- 
 
-
 ### <u> PERSONAL DATA </u>
 
 **NAME**: LEE LOO LEE
