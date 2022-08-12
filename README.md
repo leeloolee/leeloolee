@@ -14,7 +14,7 @@
 </br>
 **E-MAIL**: maider030@gmail.com
 </br>
-**ADDRESS**: Daejeon
+**ADDRESS**: KOREA SEOUL
 ___
 ### <u> EDUCATION BACKGROUND </u>
 2018-2020 Korea University Industrial Engineering
